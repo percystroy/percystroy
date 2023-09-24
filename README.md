@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Bootstrap, blender 3D, JavaScript**
+- 🌱 I’m currently learning **Bootstrap, blender 3D, JavaScript, Adobe Photoshop, Adobe Illustrator **
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/omkarpawar17](https://www.behance.net/omkarpawar17)
 
